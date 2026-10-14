@@ -118,5 +118,5 @@ st.pyplot(fig)
 
 #9. Thong tin nguoi tao
 
-st.caption("Ho ten: [Nhap ho ten cua ban]")
-st.caption("MSSV: [Nhap MSSV cua ban]")
+st.caption("Ho ten: [Nguyễn Bá Tuấn Anh]")
+st.caption("MSSV: [040208008278]")
